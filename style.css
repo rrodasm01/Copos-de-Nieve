@@ -1,0 +1,18 @@
+@keyframes caida {
+	to{
+		transform: translateY(150vh)
+	}
+	from{
+	transform: translateY(-1vh)
+}
+
+}
+
+h1{
+    text-align: center;
+    padding-top: 20%;
+}
+
+body{
+    background-image: url(https://uecluster.blob.core.windows.net/images/planetainteligente/1588506305_desiertos1400.jpg);
+}
